@@ -69,8 +69,6 @@ customer1.add_product(product3,5)
 # แสดงสินค้าในรถเข็น (สินค้าที่จะซื้อ)
 customer1.show_cart()
 
-
-
 # แสดงราคารวมของสินค้าทั้งหมดในรถเข็น
 print(f"Total price: {customer1.total_price()} USD")
 
